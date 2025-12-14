@@ -1,0 +1,15 @@
+{
+  "name": "kometto",
+  "version": "1.0.0",
+  "description": "**Kometto** is a communication infrastructure for AI agents.   It gives agents real-world identities (email + phone) via simple APIs, webhooks, and compliance-aware messaging relay.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.9.3"
+  }
+}
